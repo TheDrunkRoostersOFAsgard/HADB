@@ -1,0 +1,3 @@
+/home/juander1012/Desktop/Server!/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/juander1012/Desktop/Server!/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/juander1012/Desktop/Server!/cmake-build-debug/CMakeFiles/Server_.dir
